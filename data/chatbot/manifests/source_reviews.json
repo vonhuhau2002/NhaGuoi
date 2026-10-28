@@ -1,0 +1,215 @@
+{
+  "S01": {
+    "author": null,
+    "published_at": null,
+    "review_status": "unverified_user_sample",
+    "usage": "quarantine",
+    "notes": "Năm cặp hỏi đáp đã biên soạn; chưa chứng minh là bản truyện sưu tầm. Không dùng đáp án này làm chuẩn sự thật cho truy xuất.",
+    "blocks": [],
+    "reviewed_raw_sha256": "51e1a26a48f0ea156abb7729aedef99377c92fce74501d65b3c527c50e245f6b"
+  },
+  "S02": {
+    "author": "Đinh Thị Hựu",
+    "published_at": "2021-07-05",
+    "review_status": "agent_reviewed",
+    "usage": "research_notes",
+    "notes": "Nguồn điền dã về dòng họ; không phải cùng một truyện với mẫu. Giữ dị bản riêng.",
+    "blocks": [
+      {
+        "id": "lineage",
+        "heading": "Truyền thuyết dòng họ và dị bản",
+        "locator": {
+          "css": ".vr-paragraph",
+          "section": "Nội dung các Truyền thuyết"
+        },
+        "text": "Bài điền dã ghi lại các truyền thuyết dòng họ Cơ Tu ở Đông Giang, Tây Giang. Nguồn gốc họ P’loong có dị bản quả trôi và dị bản áo hoặc khố vỏ cây trôi trên suối. Mỗi dị bản cần có mã riêng, tránh ghép các chi tiết thành một truyện duy nhất."
+      }
+    ],
+    "reviewed_raw_sha256": "ac5fcdd003be03ce185142f13a2729ea1b39b052f4dbaa4c7bef4dd30694bbbd"
+  },
+  "S03": {
+    "author": "Hà Nam",
+    "published_at": "2026-07-29",
+    "review_status": "agent_reviewed",
+    "usage": "research_notes",
+    "notes": "Phóng sự có lời kể của người trong cộng đồng. Địa danh và thực trạng gắn thời điểm xuất bản.",
+    "blocks": [
+      {
+        "id": "guol",
+        "heading": "Vai trò nhà gươl",
+        "locator": {
+          "css": "article.entry",
+          "section": "Trái tim của bản làng"
+        },
+        "text": "Theo lời kể trong phóng sự, gươl là không gian chung để họp làng, tổ chức lễ hội, hòa giải và truyền dạy luật tục, nhạc cụ, ký ức cộng đồng. Các hình chạm và trang trí mái có nhiều loài vật; không suy rộng rằng mọi mái gươl đều chỉ có chim Tring."
+      }
+    ],
+    "reviewed_raw_sha256": "1f9aeb607ac60a083135521e8f8bd3b2c3058bbe8c2d51e53999f29331021bb4"
+  },
+  "S04": {
+    "author": "Trần Tấn Vịnh",
+    "published_at": "2021-09-11",
+    "review_status": "agent_reviewed",
+    "usage": "research_notes",
+    "notes": "Bản web dẫn Tạp chí VHNT số 472, tháng 8/2021. Phân biệt cây nêu với cột lễ theo mô tả của tác giả.",
+    "blocks": [
+      {
+        "id": "pole",
+        "heading": "Cây nêu, cột lễ và trang trí",
+        "locator": {
+          "css": ".content-detail",
+          "section": "Các đoạn mở đầu và đoạn về Gương"
+        },
+        "text": "Bài nghiên cứu phân biệt cây nêu đơ doong và cột lễ sanuôr trong không gian nghi lễ. Bộ phận gương là hai tấm gỗ đối xứng có trang trí chim Tring, gà hoặc các con vật khác; tác giả liên hệ hình dáng này với đôi tay múa Da dá và Thần lúa. Chưa mặc định mọi cách phiên âm tên cột đều đồng nhất."
+      }
+    ],
+    "reviewed_raw_sha256": "3f713275530840e4aa7030df23cbd0d1e4eed1a7cc69c59cd211b4b731d759fa"
+  },
+  "S05": {
+    "author": "Nguyễn Văn Sơn",
+    "published_at": "2020-10-11",
+    "review_status": "agent_reviewed",
+    "usage": "research_notes",
+    "notes": "Bài văn hóa mô tả biểu tượng; chưa phải căn cứ định danh khoa học một loài chim.",
+    "blocks": [
+      {
+        "id": "tring",
+        "heading": "Ý nghĩa biểu tượng chim Tring",
+        "locator": {
+          "css": "#content",
+          "section": "Các đoạn về hình tượng trên gươl và cột lễ"
+        },
+        "text": "Bài viết mô tả Tring có mỏ cong, màu sắc nổi bật và gắn với hình chạm trên gươl, cây nêu, nhà mồ. Trong cách lý giải được ghi lại, biểu tượng này liên quan đến sinh sôi, tình nghĩa vợ chồng và sứ giả của thần lúa. Không đủ căn cứ từ bài này để xác nhận cách gọi Tring là chim trĩ rừng trong mẫu hỏi đáp."
+      }
+    ],
+    "reviewed_raw_sha256": "0fb0bd15bf74f2bc860bf0344e99a8f7d800c2644df7c379fc42f37ec5b27c17"
+  },
+  "S06": {
+    "author": "Ngọc Anh – VOV5",
+    "published_at": "2023-09-13",
+    "review_status": "agent_reviewed",
+    "usage": "research_notes",
+    "notes": "Trang có cả tiếng Cơ Tu và tiếng Việt. Ghi chú này dựa vào phần tiếng Việt, không coi hai phần là hai nguồn độc lập.",
+    "blocks": [
+      {
+        "id": "dance",
+        "heading": "Tân tung và Da dá",
+        "locator": {
+          "css": "article.node--article--normal",
+          "section": "Phần tiếng Việt, lời kể của Bríu Pố"
+        },
+        "text": "Trong phần phỏng vấn Bríu Pố, Tân tung dành cho nam và Da dá dành cho nữ. Động tác, trang phục và nhạc cụ phối hợp trong sinh hoạt lễ hội. Phụ nữ đưa bàn tay ngửa lên; bài viết liên hệ điệu múa với việc cầu mong điều tốt đẹp và dâng lễ vật lên trời."
+      }
+    ],
+    "reviewed_raw_sha256": "9ce8f3cb6080809554098015a34326909250b1fc2f1a2117410c25c45803fa4f"
+  },
+  "S07": {
+    "author": "Hứa Chung",
+    "published_at": "2012-01-20",
+    "review_status": "agent_reviewed",
+    "usage": "research_notes",
+    "notes": "Bài và ảnh của tác giả, có phỏng vấn người thực hành. Các kế hoạch bảo tồn trong bài là thông tin lịch sử năm 2012.",
+    "blocks": [
+      {
+        "id": "hat-ly",
+        "heading": "Nói lý, hát lý và đối đáp",
+        "locator": {
+          "css": ".article__body",
+          "section": "Độc đáo nói lý, hát lý của người Cơ Tu"
+        },
+        "text": "Nói lý, hát lý là hình thức ứng khẩu sử dụng hình tượng và ví von để trao đổi, đối đáp, giải quyết bất đồng trong cộng đồng. Người thực hành cần hiểu vấn đề và đáp lại phù hợp ngữ cảnh. Các câu ví von trong file mẫu chưa được đối chiếu trùng với lời hát ghi trong bài này."
+      }
+    ],
+    "reviewed_raw_sha256": "b76c775a878fd07f9b427b78f49df40f4a3760a1a7269ae2300f8581cfbc9ac0"
+  },
+  "S08": {
+    "author": "Hoàng Thị Thêm",
+    "published_at": "2022-07",
+    "review_status": "unavailable",
+    "usage": "exclude",
+    "notes": "Lỗi xác minh chứng chỉ khi tải từ kho DLU. Đã tìm bản từ tạp chí gốc ở S12; không tính là hai nguồn độc lập.",
+    "blocks": []
+  },
+  "S09": {
+    "author": null,
+    "published_at": null,
+    "review_status": "unavailable",
+    "usage": "exclude",
+    "notes": "URL PDF chuyển về trang đăng nhập HTML. Chưa có bản PDF và chưa xác minh được tiêu đề/tác giả; không dùng làm bằng chứng.",
+    "blocks": []
+  },
+  "S10": {
+    "author": "Đặng Quốc Minh Dương; Lê Văn Thiện",
+    "published_at": "2022",
+    "review_status": "agent_reviewed_context_only",
+    "usage": "context_only",
+    "notes": "Nghiên cứu so sánh. Việc xuất hiện tên Cơ Tu trong truyện của tộc người khác không chứng minh đây là bản truyện gốc Cơ Tu.",
+    "blocks": [
+      {
+        "id": "comparison",
+        "heading": "Giới hạn sử dụng nghiên cứu so sánh",
+        "locator": {
+          "pdf_page": 3,
+          "section": "Bảng thống kê motif đồng sinh"
+        },
+        "text": "Nghiên cứu so sánh motif đồng sinh giữa nhiều truyện và tộc người. Chỉ dùng làm đầu mối tra cứu tài liệu; không chuyển một truyện của dân tộc khác thành truyện Cơ Tu vì trong truyện có nhắc tên Cơ Tu."
+      }
+    ],
+    "reviewed_raw_sha256": "bf799892796aa4f7e58a8d3c61f6d606d1059cdb5c661a491463843cc81d7147"
+  },
+  "S11": {
+    "author": null,
+    "published_at": "2022-07-19",
+    "review_status": "agent_reviewed_republication",
+    "usage": "corroboration_only",
+    "notes": "Trang Bộ VHTTDL đăng lại nội dung có phỏng vấn Báo điện tử Tổ Quốc; dùng đối chiếu, không đếm mỗi bản đăng lại như chứng cứ độc lập.",
+    "blocks": [
+      {
+        "id": "dance-tourism",
+        "heading": "Thực hành múa trong du lịch",
+        "locator": {
+          "css": ".article-content",
+          "section": "Các đoạn mở đầu và Du khách hòa chung vũ điệu"
+        },
+        "text": "Bài viết ghi nhận biểu diễn Tung tung Da dá tại khu du lịch Núi Thần Tài năm 2022. Đây là bối cảnh thực hành phục vụ du khách; cần phân biệt với bối cảnh nghi lễ khi giải thích cho người dùng."
+      }
+    ],
+    "reviewed_raw_sha256": "53e3f761ce44b3352ddd6f5bfee67f6740d27eb371ab606a2d8fe6d76f1ceb37"
+  },
+  "S12": {
+    "author": "Hoàng Thị Thêm",
+    "published_at": "2022-07",
+    "review_status": "agent_reviewed",
+    "usage": "research_notes",
+    "notes": "Từ điển học & Bách khoa thư, số 4(78), tr.69–73. Mục từ mẫu tổng thuật thần thoại, không phải bản chép điền dã đầu tiên. Bản khác của S08.",
+    "blocks": [
+      {
+        "id": "gourd-variant",
+        "heading": "Một dị bản quả bầu được ghi nhận",
+        "locator": {
+          "pdf_page": 4,
+          "printed_page": 72,
+          "section": "Đoạn bắt đầu Người Cơ Tu còn có truyện truyền rằng"
+        },
+        "text": "Mục từ mẫu ghi một dị bản: quả bầu thả xuống sông sinh ra mười hai người, sáu nam và sáu nữ. Họ chia nhau lên rừng và xuống biển; câu chuyện liên hệ hai nhóm với người Cơ Tu và người Kinh. Dị bản này khác chuỗi sự kiện trong đáp án mẫu."
+      },
+      {
+        "id": "origin-variants",
+        "heading": "Nhiều dị bản nguồn gốc",
+        "locator": {
+          "pdf_pages": [
+            3,
+            4
+          ],
+          "printed_pages": [
+            71,
+            72
+          ],
+          "section": "Thần thoại giải thích nguồn gốc loài người"
+        },
+        "text": "Cùng mục từ còn trình bày những truyện nguồn gốc có nạn hồng thủy hoặc có con chó. Đây là các bản kể riêng, chưa có căn cứ để nối mọi chi tiết với dị bản quả bầu thành một cốt truyện chung."
+      }
+    ],
+    "reviewed_raw_sha256": "990f8e13ace0d0086de738fd1309f83cd96a8de7434a7ae09c6f8a4347cd385c"
+  }
+}

@@ -1,0 +1,161 @@
+[
+  {
+    "source_id": "S01",
+    "url": "local:data/stories/Text cau chuyen co tu.txt",
+    "title": "Mẫu hỏi đáp do người dùng cung cấp",
+    "kind": "user_sample",
+    "topics": [
+      "origin",
+      "guol",
+      "pole",
+      "tring",
+      "dance",
+      "hat_ly"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S02",
+    "url": "https://vannghedanang.org.vn/truyen-thuyet-ve-dong-ho-cua-nguoi-co-tu-8931.html",
+    "title": "Truyền thuyết về dòng họ của người Cơ Tu",
+    "kind": "fieldwork_article",
+    "topics": [
+      "origin",
+      "lineage"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S03",
+    "url": "https://dantocphattrien.vietnamnet.vn/ben-trong-ngoi-nha-duoc-nguoi-co-tu-xem-la-hon-lang-77109.html",
+    "title": "Bên trong ngôi nhà được người Cơ Tu xem là hồn làng",
+    "kind": "reportage",
+    "topics": [
+      "guol",
+      "tring"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S04",
+    "url": "https://vanhoanghethuat.vn/nghe-thuat-trang-tri-tren-cay-cot-le-cua-dan-toc-cotu-77751251.html",
+    "title": "Nghệ thuật trang trí trên cây cột lễ của dân tộc Cơtu",
+    "kind": "research_article",
+    "topics": [
+      "pole",
+      "tring"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S05",
+    "url": "https://baodaklak.vn/channel/9803/202010/bieu-tuong-chim-tring-trong-van-hoa-co-tu-5703869/",
+    "title": "Biểu tượng chim tring trong văn hóa Cơ Tu",
+    "kind": "cultural_article",
+    "topics": [
+      "tring",
+      "pole",
+      "guol"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S06",
+    "url": "https://vov4.vov.vn/cotu/xoong-pra-xa-nay-coh-guol-duoi-mai-nha-guol/tan-tung-da-da-prmua-ty-danh-ang-acoon-coh-co-tu-429010.vov4",
+    "title": "Tân tung da dă — Pr’múa ty đanh âng acoon coh Cơ Tu",
+    "kind": "interview",
+    "topics": [
+      "dance"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S07",
+    "url": "https://baotintuc.vn/ve-quang-nam-nghe-noi-ly-hat-ly-co-tu-n20120120213845120.htm",
+    "title": "Về Quảng Nam nghe nói lý, hát lý Cơ Tu",
+    "kind": "reportage",
+    "topics": [
+      "hat_ly"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S08",
+    "url": "https://scholar.dlu.edu.vn/thuvienso/bitstream/DLU123456789/186491/1/CVv517S042022069.pdf",
+    "title": "Nghiên cứu mục từ thần thoại tộc người — cần kiểm tra trang đầu",
+    "kind": "research_pdf",
+    "topics": [
+      "origin"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S09",
+    "url": "https://vjol.info.vn/index.php/ncdt/article/download/51704/42568/",
+    "title": "Văn hóa truyền thống Cơ Tu — cần kiểm tra trang đầu",
+    "kind": "research_pdf",
+    "topics": [
+      "origin",
+      "guol",
+      "hat_ly"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S10",
+    "url": "https://js.vhu.edu.vn/index.php/vhujsvn/article/download/356/182/312",
+    "title": "Motif đồng sinh trong truyện dân gian Việt Nam",
+    "kind": "comparative_research_pdf",
+    "topics": [
+      "origin",
+      "variant_comparison"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S11",
+    "url": "https://bvhttdl.gov.vn/dua-vu-dieu-dang-troi-cua-nguoi-co-tu-vao-phuc-vu-du-khach-20220719090105499.htm",
+    "title": "Đưa vũ điệu dâng trời của người Cơ Tu vào phục vụ du khách",
+    "kind": "ministry_republication",
+    "topics": [
+      "dance"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi"
+  },
+  {
+    "source_id": "S12",
+    "url": "https://jol.vn/index.php/tudienhoc/vi/article/download/616/551",
+    "title": "Cấu trúc loại mục từ “thần thoại tộc người” trong Từ điển bách khoa Thần thoại Việt Nam",
+    "kind": "research_pdf",
+    "topics": [
+      "origin",
+      "myth_variants"
+    ],
+    "review_status": "pending",
+    "usage": "research_candidate",
+    "language": "vi",
+    "alternate_of": "S08"
+  }
+]

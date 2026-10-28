@@ -1,0 +1,6 @@
+# Keep Python/shell sources portable while preserving provenance-checked data.
+* text=auto eol=lf
+data/** -text
+*.mp4 -text
+*.png -text
+*.pdf -text

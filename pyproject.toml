@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cotu-app"
+version = "1.1.7"
+description = "Ứng dụng Nhà Gươi trên Raspberry Pi 5"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+desktop = [
+    "python-vlc>=3.0.21203,<4",
+    "faster-whisper>=1.1,<2",
+    "sounddevice>=0.5,<1",
+    "zerotts>=0.1.5,<0.2",
+]
+research = ["requests>=2,<3"]
+
+[project.scripts]
+cotu-app = "cotu_app.app.desktop:main"
+cotu-chatbot = "cotu_app.features.chatbot.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "."]

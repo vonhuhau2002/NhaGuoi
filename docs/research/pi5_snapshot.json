@@ -1,0 +1,15 @@
+{
+  "captured_at": "2026-10-17T17:26:01.671773+00:00",
+  "device_model": "Raspberry Pi 5 Model B Rev 1.0",
+  "machine": "aarch64",
+  "python": "3.13.5",
+  "sqlite": "3.46.1",
+  "fts5_available": true,
+  "memory": {
+    "MemTotal_KiB": 4142160,
+    "MemAvailable_KiB": 2542672,
+    "SwapTotal_KiB": 2097136,
+    "SwapFree_KiB": 1565536
+  },
+  "note": "Snapshot hệ thống, không phải benchmark model hay độ trễ chatbot."
+}

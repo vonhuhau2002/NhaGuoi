@@ -1,0 +1,8 @@
+{
+  "elder": {"voice": "huuduc", "rate": 0.88},
+  "person_1": {"voice": "giahuy", "rate": 1.0},
+  "person_2": {"voice": "quangminh", "rate": 1.0},
+  "person_3": {"voice": "kimoanh", "rate": 0.95},
+  "person_4": {"voice": "tiendat", "rate": 1.0},
+  "person_5": {"voice": "maichi", "rate": 1.0}
+}

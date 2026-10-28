@@ -1,0 +1,17 @@
+{
+  "measured_at": "2026-10-19T10:23:00.744875+07:00",
+  "scope": "Local TTS only; fixed text, one shared warmed model, empty per-run caches; excludes chat API latency",
+  "text": "Nhà Gươl là không gian sinh hoạt chung của cộng đồng Cơ Tu. Người dân gặp gỡ, tổ chức lễ hội và truyền dạy văn hóa tại đây.",
+  "voice": "huuduc",
+  "rate": 0.88,
+  "inference_threads": 1,
+  "codec_threads": 1,
+  "model_load_and_warmup_seconds": 55.535,
+  "uncached_request_to_usb_seconds": 20.765,
+  "usb_playback_wall_seconds": 7.771,
+  "usb_output_underflows": 0,
+  "usb_max_write_interval_seconds": 0.052,
+  "usb_playback_completed": true,
+  "complete_wav_before_speaker_opened": true,
+  "audio_seconds": 7.818
+}

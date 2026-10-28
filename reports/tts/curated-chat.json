@@ -1,0 +1,18 @@
+{
+  "measured_at": "2026-10-19T03:53:40.868136+00:00",
+  "scope": "Curated chat with existing WAV; excludes arbitrary new AI answers",
+  "catalog_load_ms": 89.234,
+  "unique_question_wordings": 233,
+  "routing_checks": 1398,
+  "routing_max_ms": 1.062,
+  "unique_audio_answers": 37,
+  "cached_wavs": 37,
+  "api_calls": 0,
+  "evidence_searches": 0,
+  "question": "Nhà Gươl là gì?",
+  "submit_to_first_usb_write_seconds": 0.251,
+  "playback_completed": true,
+  "usb_underflows": 0,
+  "max_usb_write_interval_seconds": 0.052,
+  "model_load_calls": 0
+}

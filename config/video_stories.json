@@ -1,0 +1,50 @@
+{
+  "whisper_model": "base",
+  "microphone": null,
+  "record_seconds": 8,
+  "gpio_buttons": {
+    "person_1": 17,
+    "person_2": 27,
+    "person_3": 23,
+    "person_4": 24
+  },
+  "stories": {
+    "elder": {
+      "video": "../data/videos/person_5.mp4",
+      "transcript": "../data/videos/person_5.notes.srt",
+      "questions": "../data/videos/person_5.questions.json"
+    },
+    "person_1": {
+      "video": "../data/videos/person_5.mp4",
+      "transcript": "../data/videos/person_5.notes.srt",
+      "questions": "../data/videos/person_5.questions.json"
+    },
+    "person_2": {
+      "video": "../data/videos/person_5.mp4",
+      "transcript": "../data/videos/person_5.notes.srt",
+      "questions": "../data/videos/person_5.questions.json"
+    },
+    "person_3": {
+      "video": "../data/videos/person_5.mp4",
+      "transcript": "../data/videos/person_5.notes.srt",
+      "questions": "../data/videos/person_5.questions.json"
+    },
+    "person_4": {
+      "video": "../data/videos/person_5.mp4",
+      "transcript": "../data/videos/person_5.notes.srt",
+      "questions": "../data/videos/person_5.questions.json"
+    },
+    "person_5": {
+      "video": "../data/videos/person_5.mp4",
+      "transcript": "../data/videos/person_5.notes.srt",
+      "questions": "../data/videos/person_5.questions.json"
+    }
+  },
+  "document_questions": [
+    "../data/stories/co_tu_story.questions.json"
+  ],
+  "chatbot": {
+    "enabled": true,
+    "mode": "research"
+  }
+}
